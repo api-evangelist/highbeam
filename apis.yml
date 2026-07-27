@@ -1,8 +1,29 @@
 aid: highbeam
 name: Highbeam
-description: Highbeam is a company surfaced as a portfolio company of mayfield and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Highbeam is a business banking and finance platform built for modern consumer
+  brands (direct-to-consumer and e-commerce). It brings together operating and
+  high-yield accounts, a charge card that pays cashback on advertising spend,
+  working capital and credit lines, automated bill pay, and spend intelligence,
+  alongside Luma, an applied-AI finance assistant. Banking services are delivered
+  through partner banks (Thread Bank, member FDIC) and Airwallex. Highbeam is
+  based in New York City. As of this profile it publishes no public developer
+  API, developer portal, or machine-readable API specification; this entry
+  captures the company identity, its public web properties, and a live
+  domain-security probe.
 url: https://raw.githubusercontent.com/api-evangelist/highbeam/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/63d267912f9b4a0465ec5c14/67dc518a89a4109c7f50ee36_Open-Graph-Image-Option-3.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,9 +32,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Banking
+- Fintech
+- Business Banking
+- Financial Services
+- E-commerce
+- Working Capital
+- Consumer Brands
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,4 +50,25 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://highbeam.co
+  url: https://www.highbeam.com
+- type: Blog
+  url: https://www.highbeam.com/blog
+- type: Support
+  url: https://www.highbeam.com/faq
+- type: SignUp
+  url: https://www.highbeam.com/qualify
+- type: Login
+  url: https://app.highbeam.co/
+- type: TermsOfService
+  url: https://www.highbeam.com/legal/terms-and-conditions
+- type: PrivacyPolicy
+  url: https://www.highbeam.com/legal/privacy-policy
+- type: DomainSecurity
+  url: security/highbeam-domain-security.yml
+- type: LLMsTxt
+  url: llms/highbeam-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

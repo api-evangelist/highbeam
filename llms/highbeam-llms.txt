@@ -1,0 +1,33 @@
+# Highbeam
+
+> Highbeam is a business banking and finance platform built for modern consumer brands (D2C and e-commerce). It combines operating and high-yield accounts, a charge card with cashback on advertising spend, working capital and credit lines, bill pay, spend intelligence, and an applied-AI finance assistant (Luma). Banking services are provided through partner banks (Thread Bank, member FDIC) and Airwallex. Highbeam does not publish a public developer API, developer portal, or machine-readable API specification as of this writing.
+
+## About
+- [About Highbeam](https://www.highbeam.com/about): Company overview.
+- [Security](https://www.highbeam.com/security): Security posture and FDIC deposit protection.
+- [FAQ](https://www.highbeam.com/faq): Common questions and support.
+- [Contact](https://www.highbeam.com/contact): Get in touch with Highbeam.
+
+## Products
+- [Banking](https://www.highbeam.com/banking): Operating and high-yield accounts for consumer brands.
+- [Card](https://www.highbeam.com/card): Charge card with cashback on advertising spend.
+- [Capital](https://www.highbeam.com/capital): Working capital and credit for growing brands.
+- [Bill Pay](https://www.highbeam.com/bill-pay): Automated vendor and bill payments.
+- [Ad Spend Manager](https://www.highbeam.com/ad-spend-manager): Manage and earn on advertising spend.
+- [Intelligence](https://www.highbeam.com/intelligence): Cash-flow and spend intelligence.
+- [Luma](https://www.highbeam.com/luma): Applied-AI finance team for consumer brands.
+
+## Resources
+- [Blog](https://www.highbeam.com/blog): Company blog and brand-finance guides.
+- [Guide to Banking](https://www.highbeam.com/guides/guide-to-banking)
+- [Guide to Credit](https://www.highbeam.com/guides/guide-to-credit)
+- [Ecosystem](https://www.highbeam.com/ecosystem): Partner ecosystem.
+
+## Get Started
+- [Qualify / Sign Up](https://www.highbeam.com/qualify): Apply and open an account.
+- [App Login](https://app.highbeam.co/): Highbeam application login.
+
+## Legal
+- [Terms and Conditions](https://www.highbeam.com/legal/terms-and-conditions)
+- [Privacy Policy](https://www.highbeam.com/legal/privacy-policy)
+- [Legal Center](https://www.highbeam.com/legal): All banking, card, and deposit agreements.
